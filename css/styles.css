@@ -17,7 +17,7 @@ img {
 
 body {
     font-family: "Roboto", sans-serif;
-    color: #2e2f42;
+    color: #434455;
     background: #fff;
 }
 /* ========== /common styles ========== */
@@ -30,13 +30,16 @@ body {
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2e2f42;
+        color: #4d5ae5;
 }
 
-.first-part-logo-name {
-    color: #4d5ae5;;
+.part-logo-name {
+    color: #2e2f42;
 }
 
+.address-contacts {
+    font-style: normal
+}
 .menu-link {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -72,7 +75,7 @@ h1 {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
@@ -101,6 +104,16 @@ h1 {
 /* ========== /Hero image styles ========== */
 
 /* ========== Hero Section1 styles ========== */
+.our-benefits {
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        text-align: center;
+        color: #fff;
+}
 .benefits {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -129,7 +142,7 @@ h1 {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
@@ -158,17 +171,30 @@ h1 {
 /* ========== /Hero Section2 styles ========== */
 
 /* ========== Hero Section3 styles ========== */
+.section-3 {
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        text-align: center;
+        color: #2e2f42;
+}
 .our-portfolio {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
         color: #2e2f42;
 }
 
+.our-portfolio-item {
+    background-color: #ffffff;
+}
 .our-possibilities {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -197,7 +223,7 @@ h1 {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #f4f4fd;
@@ -207,7 +233,7 @@ h1 {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
