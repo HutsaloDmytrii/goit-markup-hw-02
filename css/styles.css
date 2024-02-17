@@ -71,7 +71,7 @@ body {
 
 
 /* ========== Hero image styles ========== */
-h1 {
+.main-title {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 56px;
@@ -135,6 +135,14 @@ h1 {
 
 /* ========== Hero Section2 styles ========== */
 .section-2 {
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        text-align: center;
+        color: #2e2f42;
     background: #f4f4fd;
 }
 
