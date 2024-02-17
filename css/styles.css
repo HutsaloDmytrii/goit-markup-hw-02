@@ -139,6 +139,7 @@ body {
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        text-align: center;
         color: #2e2f42;
     background: #f4f4fd;
 }
@@ -150,6 +151,7 @@ body {
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        text-align: center;
         color: #2e2f42;
 }
 
@@ -159,6 +161,7 @@ body {
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        text-align: center;
         color: #2e2f42;
 }
 
@@ -181,6 +184,7 @@ body {
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        text-align: center;
         color: #2e2f42;
 }
 .our-portfolio {
@@ -190,6 +194,7 @@ body {
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        text-align: center;
         color: #2e2f42;
 }
 
