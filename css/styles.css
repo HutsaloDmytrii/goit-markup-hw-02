@@ -70,7 +70,7 @@ body {
 /* ========== /Page Header styles ========== */
 
 
-/* ========== Hero image styles ========== */
+/* ========== Hero image styles (1) ========== */
 .main-title {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
@@ -99,9 +99,10 @@ body {
 .hero-image-btn:focus {
         background: #404bbf;
 }
-/* ========== /Hero image styles ========== */
+/* ========== /Hero image styles (1) ========== */
 
-/* ========== Hero Section1 styles ========== */
+
+/* ========== Hero Section1 styles (2) ========== */
 .our-benefits {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
@@ -110,7 +111,7 @@ body {
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
-        color: #fff;
+        color: #ffffff;
 }
 .benefits {
     font-family: "Roboto", sans-serif;
@@ -129,9 +130,10 @@ body {
         letter-spacing: 0.02em;
         color: #434455;
 }
-/* ========== /Hero Section1 styles ========== */
+/* ========== /Hero Section1 styles (2) ========== */
 
-/* ========== Hero Section2 styles ========== */
+
+/* ========== Hero Section2 styles (3) ========== */
 .section-2 {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
@@ -170,9 +172,10 @@ body {
         letter-spacing: 0.02em;
         color: #434455;
 }
-/* ========== /Hero Section2 styles ========== */
+/* ========== /Hero Section2 styles (3) ========== */
 
-/* ========== Hero Section3 styles ========== */
+
+/* ========== Hero Section3 styles (4) ========== */
 .section-3 {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
@@ -212,7 +215,8 @@ body {
         letter-spacing: 0.02em;
         color: #434455;
 }
-/* ========== /Hero Section3 styles ========== */
+/* ========== /Hero Section3 styles (4) ========== */
+
 
 /* ========== Hero Footer styles ========== */
 .hero-footer {
