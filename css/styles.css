@@ -140,6 +140,7 @@ body {
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        text-align: center
         color: #2e2f42;
     background: #f4f4fd;
 }
@@ -151,6 +152,7 @@ body {
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        text-align: center
         color: #2e2f42;
 }
 
@@ -160,6 +162,7 @@ body {
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        text-align: center
         color: #2e2f42;
 }
 
@@ -169,6 +172,7 @@ body {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
+        text-align: center
         color: #434455;
 }
 /* ========== /Hero Section2 styles ========== */
