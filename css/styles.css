@@ -78,7 +78,7 @@ body {
         line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #ffffff;
+        color: #fff;
 }
 
 .hero-image {
@@ -92,7 +92,7 @@ body {
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.04em;
-            color: #ffffff;
+            color: #fff;
 }
 
 .hero-image-btn:hover,
@@ -110,7 +110,8 @@ body {
         line-height: 1.07;
         letter-spacing: 0.02em;
         text-transform: capitalize;
-        color: #ffffff;
+        text-align: center;
+        color: #fff;
 }
 .benefits {
     font-family: "Roboto", sans-serif;
@@ -131,28 +132,31 @@ body {
 }
 /* ========== /Hero Section1 styles (2) ========== */
 
-
 /* ========== Hero Section2 styles (3) ========== */
 .section-2 {
-    
-    background: #f4f4fd;
-}
-
-.our-team {
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2e2f42;
-        background-color: #ffffff;
+    background: #f4f4fd;
 }
 
-.team-item {
-    background: #ffffff;
+.our-team {
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2e2f42;
 }
 
 .employee-name {
-          font-weight: 500;
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
@@ -160,14 +164,16 @@ body {
 }
 
 .position-name {
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
-/* ========== /Hero Section2 styles (3) ========== */
+/* ========== /Hero Section2 styles ========== */
 
-
-/* ========== Hero Section3 styles (4) ========== */
+/* ========== Hero Section3 styles ========== */
 .section-3 {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
@@ -175,7 +181,6 @@ body {
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
-        text-align: center;
         color: #2e2f42;
 }
 .our-portfolio {
@@ -184,14 +189,12 @@ body {
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
-        text-align: center;
         text-transform: capitalize;
         color: #2e2f42;
 }
 
 .our-portfolio-item {
     background-color: #ffffff;
-    text-align: center;
 }
 .our-possibilities {
     font-family: "Roboto", sans-serif;
@@ -199,7 +202,6 @@ body {
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #2e2f42;
 }
 
@@ -209,11 +211,9 @@ body {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #434455;
 }
-/* ========== /Hero Section3 styles (4) ========== */
-
+/* ========== /Hero Section3 styles ========== */
 
 /* ========== Hero Footer styles ========== */
 .hero-footer {
